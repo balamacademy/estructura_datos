@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Arrelos y Matrices
-nav_order: 2
+nav_order: 3
 ---
 # Arreglos y Matrices
 
