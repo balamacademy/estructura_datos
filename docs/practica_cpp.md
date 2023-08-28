@@ -52,7 +52,7 @@ En ningún programa se requiere que imprima un mensaje para solicitar los valore
 ## **Ejemplo:** única entrada
 
 1. **Dime tu edad:**
-   - Descripción: Ingresa tu edad y muetrala en pantalla.
+   - Descripción: Ingresa tu edad y muestrala en pantalla.
    - Nombre de archivo: edad.cpp
    - Ejemplo:
      
